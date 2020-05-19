@@ -1,4 +1,7 @@
 #!/bin/bash
+# Michael Rieder 19.05.2020
+# Script search the keychain for 802.1X Certificates and delete duplicated certs.
+
 
 # Clean up computer certs
 ComputerName=$(hostname)
